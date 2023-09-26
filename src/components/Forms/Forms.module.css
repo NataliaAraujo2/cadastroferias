@@ -1,0 +1,11 @@
+.forms {
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--white-silver);
+  border-style: ridge;
+  border-width: .5em;
+}
